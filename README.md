@@ -1,1 +1,1 @@
-# ExpenseTrackerApplication
+Python 3.13 compatible Expense Tracker using sqlite3.
