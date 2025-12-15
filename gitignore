@@ -1,0 +1,44 @@
+# -------------------------
+# Python cache & temp files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Virtual environment
+# -------------------------
+venv/
+env/
+
+# -------------------------
+# Streamlit config & cache
+# -------------------------
+.streamlit/
+
+# -------------------------
+# SQLite Database files
+# -------------------------
+*.db
+expenses.db
+
+# -------------------------
+# Secret config files
+# (Never expose email credentials)
+# -------------------------
+email_config.py
+.env
+
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE-specific files
+# -------------------------
+.vscode/
+.idea/
+*.code-workspace
